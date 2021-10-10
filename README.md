@@ -6,6 +6,7 @@ Dit heb ik als volgt gedaan:
 2. Navigeer naar: sketch —> include library —> manage libraries 
 3. Typ in de zoekbalk: Adafruit IO Arduino
 Hier heb ik een noob-foutje gemaakt die ik elke keer maak als ik een nieuwe library wil aanmaken, en dat is op more info klikken om vervolgens doorwerken te worden naar de GitHub, dat wil ik niet!
+![Posture Bot](https://github.com/MarkvHeusden/AI/blob/main/styles/images/PB_logo_banner.png)
 4. Terug bij manage libraries kies je voor Install All 
 
 ## Adafruit IO Setup
