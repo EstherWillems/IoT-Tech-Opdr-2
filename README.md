@@ -1,5 +1,4 @@
-# IoT-Tech-Opdr-2
-Technische opdracht 2 van IoT, Adafruit IO LEDstrip Arduino
+# IoT Tech opdracht 2: met Adafruit IO een LEDstrip aansturen via Arduino
 ## Installeer de Arduino IO libraries 
 Het eerste wat ik heb gedaan is extra libraries in Arduino te installeren om te kunnen communiceren met Adafruit IO.
 Dit heb ik als volgt gedaan:
